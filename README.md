@@ -10,10 +10,12 @@ This Phishing Simulation project is aimed at conducting a phishing test in a con
 - Knowledge of conducting phishing campaigns
 - Awareness of social engineering tactics and their impact
 - Utilisation of tools in Kali Linux
+- Virtualisation through Oracle VirtualBox
 
 ### Tools Used
 
 - Kali Linux
+- VirtualBox
 - Phishing (mamba-9mm), an automated phishing tool
   
 ## Steps
