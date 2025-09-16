@@ -33,12 +33,12 @@ This Phishing Simulation project is aimed at conducting a phishing test in a con
 
 *Pictures 5 and 6: Testing the phishing page by visiting the generated URL on another machine and inputting placeholder login credentials for demonstration*
 
-![Picture7](https://github.com/user-attachments/assets/e44daa28-d372-4ebd-a915-edcf3574181c)
-![Picture8](https://github.com/user-attachments/assets/e7735fae-1dfb-40d5-8516-5632d3f79b90)
+![Picture5](https://github.com/user-attachments/assets/e44daa28-d372-4ebd-a915-edcf3574181c)
+![Picture6](https://github.com/user-attachments/assets/e7735fae-1dfb-40d5-8516-5632d3f79b90)
 
 *Picture 7: The credentials gathered from the phishing tool*
 
-![Picture5](https://github.com/user-attachments/assets/e77ba0ab-2b5a-4a14-9cbb-8a18702a21b8)
+![Picture7](https://github.com/user-attachments/assets/e77ba0ab-2b5a-4a14-9cbb-8a18702a21b8)
 
 
 
